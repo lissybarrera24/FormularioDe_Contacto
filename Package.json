@@ -1,5 +1,5 @@
 {
-  "name": "proyecto-contacto",
+  "name": "formulario-contacto",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -20,3 +20,4 @@
     "vite": "^5.0.0"
   }
 }
+
