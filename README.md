@@ -102,7 +102,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
 
 Package.json
 {
-  "name": "proyecto-contacto",
+  "name": "formulario-contacto",
   "private": true,
   "version": "0.0.0",
   "type": "module",
